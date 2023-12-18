@@ -286,9 +286,4 @@ footer {
     width: 0vw;
    }
   }
-  @media (min-width:1025px) and (max-width:1305px){
-    .right{
-      height:40vh;
-      width: 0vw;
-     }
-  }
+  
